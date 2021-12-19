@@ -1,0 +1,7 @@
+{
+    "project_name": "workbench",
+    "package_name": "{{ cookiecutter.project_name.replace('-', '_') }}",
+    "friendly_name": "{{ cookiecutter.project_name.replace('-', ' ').title() }}",
+    "author_name": "Your name",
+    "author_email": "Your email address"
+}
